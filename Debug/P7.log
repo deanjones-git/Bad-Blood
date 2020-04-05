@@ -1,0 +1,3 @@
+﻿  vampires.cpp
+C:\Users\Dean\Documents\CS31\P7\vampires.cpp(780,70): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  P7.vcxproj -> C:\Users\Dean\Documents\CS31\P7\Debug\P7.exe
